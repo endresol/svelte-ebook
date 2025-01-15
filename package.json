@@ -30,6 +30,7 @@
 		"@sendgrid/mail": "^8.1.4",
 		"@stripe/stripe-js": "^5.5.0",
 		"@sveltejs/adapter-node": "^5.2.11",
+		"@sveltejs/adapter-vercel": "^5.5.2",
 		"stripe": "^17.5.0"
 	}
 }
