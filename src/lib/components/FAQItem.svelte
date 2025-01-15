@@ -1,5 +1,5 @@
 <script>
-	import chevronDown from '$assets/icons/chevron-down.svg';
+	import chevronDown from "$assets/icons/chevron-down.svg";
 
 	let { faq, isSelected, ...props } = $props();
 </script>
